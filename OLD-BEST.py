@@ -432,7 +432,7 @@ class Main:
 		print(" [0] EXIT                                             ")
 		print("\033[1;37m----------------------------------------------""")
 		mumit =input(" [?] CHOOSE : ")
-		os.system('xdg-open https://github.com/MUMIT-404-CYBER')
+		os.system('xdg-open https://github.com/arafat-mahin310')
 		if mumit in ["1", "01"]:
 			File()
 		if mumit in ["2", "02"]:
